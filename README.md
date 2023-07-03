@@ -3,4 +3,4 @@ Originally made by GFXTI, was taken down as of recent THIS IS FOR ARCHIVAL PURPO
 ## Athena Client
 Hey Skids, Suck my dick
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/OASFJIUGFEWG/Athena-Client-Main/main/Main"))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/OASFJIUGFEWG/Athena-Client-Main/main/Main'))()
